@@ -1,6 +1,3 @@
-import datetime
-
-
 class VaccineError(Exception):
     """Base class for vaccine-related errors."""
 
